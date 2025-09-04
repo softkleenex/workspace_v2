@@ -13,10 +13,6 @@ t = 0
 ans = [sys.maxsize, -1]#시간,높이
 
 
-
-
-
-
 for h in range(0, 256 + 1):
     need_block = 0
     removed_block = 0
